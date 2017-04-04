@@ -74,7 +74,7 @@
 	        system("PAUSE");
 	    }
 	//==================================================================================================
-	    void ATMAccountHolders::withdraw()
+	    void ATMAccountHolders::withdraw()//Withdrawal Transactions
 	    {
 	         system("cls");
 	        cout<<"\n============================ATM Retragere Bani CONT=============================\n\n";
@@ -138,7 +138,7 @@
 	        cout<<"Doriti sa platiti factura de la compania de electricitate in valoare de 2000 de lei acum ?\n\n";
 	        cout<<"\t\tApasa 1 pentru DA sau apasa 0 pentru NU\n\n";
 	        cin>>r;
-	        if(r==1)
+	        if(r=1)
 	        {accountBalance=startBalance-2000;
 	        system("cls");
 	        cout<<"\n===========================ATM Plati Facturi Online==========================\n";
@@ -147,7 +147,7 @@
 	        cout<<"\n============================+++++++++++++++++++++++===========================\n\n";
 	        cout<<"Apasa orice buton pentru a reveni la meniul principal\n\n";
 	       }
-	       if(r==0)
+	       if(r=0)
 	       {
 	       cout<<"\n===========================ATM Plati Facturi Online==========================\n\n";
 	        cout<<"\n\n\tPlata la factura a fost refuzata ...\n\n";
@@ -202,7 +202,7 @@
 	      };
 
 	//==================================================================================================
-	    int main()
+	    int start()
 	    {
 	    int e;
 	    ATMAccountHolders p;
@@ -297,7 +297,7 @@
 	//==================================================================================================
 
 
-	    case 0:
+	    case 0://pin to access account
 	    system("cls");
 	      cout<<"\n==========================ATM ACCOUNT STATUS================================\n\n";
 	                    cout<<"\tPentru a accesa contul trebuie introdus parola pin de pe card. \n\n";
@@ -314,4 +314,8 @@
 	return 0;
 
 	};
-
+int main()
+{
+    start();
+    return 0;
+}
