@@ -1,0 +1,52 @@
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\bin\Debug\atmsystem.exe
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\bin\Debug\atmsystem.pdb
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\bin\Debug\atmsystem.xml
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.AdminForm.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Balanceinq.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Deposit.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Login_frm.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Regs_frm.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Mainmenu.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Properties.Resources.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Receipt.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.transreceipt.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Withdraw.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.exe
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.pdb
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.pdb
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\bin\Debug\atmsystem.exe
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\bin\Debug\atmsystem.pdb
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\bin\Debug\atmsystem.xml
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.csprojResolveAssemblyReference.cache
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.AdminForm.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Balanceinq.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Deposit.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Login_frm.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Regs_frm.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Mainmenu.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Properties.Resources.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Receipt.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.transreceipt.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.Withdraw.resources
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.csproj.GenerateResource.Cache
+C:\Users\Gohan\Documents\Visual Studio 2013\Projects\atm system\obj\Debug\atmsystem.exe
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.exe
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.pdb
+C:\Users\Evolution\Desktop\atm system\bin\Debug\atmsystem.exe
+C:\Users\Evolution\Desktop\atm system\bin\Debug\atmsystem.pdb
+C:\Users\Evolution\Desktop\atm system\bin\Debug\atmsystem.xml
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.csprojResolveAssemblyReference.cache
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.AdminForm.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Balanceinq.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Deposit.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Login_frm.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Regs_frm.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Mainmenu.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Properties.Resources.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Receipt.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.transreceipt.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.Withdraw.resources
+C:\Users\Evolution\Desktop\atm system\obj\Debug\atmsystem.csproj.GenerateResource.Cache
